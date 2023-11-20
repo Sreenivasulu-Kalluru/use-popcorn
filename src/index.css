@@ -407,6 +407,19 @@ body {
   .search::placeholder {
     font-size: 1.6rem;
   }
+
+  .summary {
+    padding: 1.8rem 2.6rem 1.8rem 2.6rem;
+  }
+
+  .summary div {
+    gap: 1.6rem;
+  }
+
+  .details section {
+    padding: 2rem;
+    gap: 1rem;
+  }
 }
 
 /*
