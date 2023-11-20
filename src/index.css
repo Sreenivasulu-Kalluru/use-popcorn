@@ -80,7 +80,7 @@ body {
 }
 
 .box {
-  width: 42rem;
+  min-width: 32rem;
   max-width: 42rem;
   min-height: 25rem;
   background-color: var(--color-background-500);
@@ -378,7 +378,7 @@ body {
   }
 
   .search {
-    width: 16rem;
+    min-width: 12rem;
     padding: 0.8rem 1rem;
   }
 
