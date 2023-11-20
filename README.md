@@ -1,5 +1,5 @@
 
 
-#  UsePopcorn
+# 🍿UsePopcorn
 
-## A Movie Application
+## A Movie Application coded using React
